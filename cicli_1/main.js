@@ -1,4 +1,7 @@
-for(let num = 2; num <= 20; num+=2){
-    console.log(num);
+let num = 2;
+
+for (let i = 1; i <= 10; i++) {
+    
+    console.log(i * num);
     
 }
